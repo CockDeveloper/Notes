@@ -53,5 +53,7 @@ https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Progr
 
 http://google.github.io/styleguide/objcguide.html
 
+https://google.github.io/swift/
+
 https://swift.org/documentation/api-design-guidelines/#naming
 
