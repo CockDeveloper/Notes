@@ -58,3 +58,9 @@ https://google.github.io/swift/
 https://swift.org/documentation/api-design-guidelines/#naming
 
 https://engineering.vokal.io/iOS/CodingStandards/Swift.md.html
+
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
+
+https://github.com/raywenderlich/swift-style-guide
+
+https://github.com/raywenderlich/objective-c-style-guide
