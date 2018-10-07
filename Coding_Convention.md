@@ -57,3 +57,4 @@ https://google.github.io/swift/
 
 https://swift.org/documentation/api-design-guidelines/#naming
 
+https://engineering.vokal.io/iOS/CodingStandards/Swift.md.html
